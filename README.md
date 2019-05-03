@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/DanaGIT18/php-test.svg?branch=master)](https://travis-ci.org/DanaGIT18/php-test)
+
 # Telegram Bot Api Base
 
 [![Telegram bot api][ico-bot-api]][link-bot-api]
